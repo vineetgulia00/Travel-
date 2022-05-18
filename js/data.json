@@ -1,0 +1,55 @@
+{
+    "packages":[
+        {
+            "imageURL": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/07/02/cf/57.jpg",
+            "heading": "Houseboat Cruise in Bekal",
+            "description": "Bekal is a coastal town in the South Indian state of Kerala. On this day-excursion from Mangalore, visit the Lake Temple of Ananthapura.",
+            "discountPrice": "Rs.900.00",
+            "originalPrice": "Rs.1200.00"
+        },
+        {
+            "imageURL": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/e4/12/92.jpg",
+            "heading": "Excursion To Karkala And Moodabidri",
+            "description": "Karkala and Moodabidri are two sleepy towns situated around an hour’s drive from Mangalore in the South Indian state of Karnataka.",
+            "discountPrice": "Rs.900.00",
+            "originalPrice": "Rs.1200.00"
+        },
+        {
+            "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/d2/14/cc/night-view-of-the-complex.jpg?w=1200&h=-1&s=1",
+            "heading": "Kudroli Gokarnath Temple",
+            "description": "The Gokarnanatheshwara Temple, otherwise known as Kudroli Sri Gokarnanatha Kshetra, is in the Kudroli area of Mangalore in Karnataka, India. It was consecrated by Narayana Guru. It is dedicated to Gokarnanatha, a form of Lord Shiva. This temple was built in 1912 by Adhyaksha HoigeBazar Koragappa.",
+            "discountPrice": "Rs.900.00",
+            "originalPrice": "Rs.1200.00"
+        },
+        {
+            "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/70/5d/7a/kadri-manjunath-temple.jpg?w=1200&h=-1&s=1",
+            "heading": "Kadri Manjunath Temple",
+            "description": "The temple of Manjunatheshwara on the hills of Kadri is said to be built during the 10th or 11th century. It was converted to a complete stone structure during the 14th century.",
+            "discountPrice": "Rs.900.00",
+            "originalPrice": "Rs.1200.00"
+        },
+        {
+            "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/f9/ef/d3/beautiful-sunset.jpg?w=1200&h=-1&s=1",
+            "heading": "Panambur Beach",
+            "description": "Panambur Beach is a beach in the city of Mangalore in the Indian state of Karnataka. This beach is on the shores of Arabian sea.",
+            "discountPrice": "Rs.900.00",
+            "originalPrice": "Rs.1200.00"
+        },
+        {
+            "imageURL": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/74/c8/48.jpg",
+            "heading": "Mangaluru Shore Excursion",
+            "description": "Explore the landmarks and heritage of Mangalore (Mangaluru) on a private full-day tour with your own private guide.",
+            "discountPrice": "Rs.900.00",
+            "originalPrice": "Rs.1200.00"
+        },
+        {
+            "imageURL": "https://lp-cms-production.imgix.net/2019-06/GettyImages-94402199_medium.jpg",
+            "heading": "Tannirbhavi Beach",
+            "description": "Take a ferry from the Gurupura river and then you can witness this surreal land. Famed for its vast shores and spellbinding aura, this locale is toured by locals and tourists alike.",
+            "discountPrice": "Rs.900.00",
+            "originalPrice": "Rs.1200.00"
+        }
+
+
+    ]
+}
